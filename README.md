@@ -49,3 +49,6 @@ ____
 [Майнд-карта](https://drive.google.com/file/d/105fVu9zjqIJng1eLJsuv-7nmzJbmWPVF/view?usp=sharing)
 ## Коллекции POSTMAN
 
+[Колекция Postman для обекта Post](https://github.com/Lexzender/DummyAPI/blob/main/Dummy%20API.postman_collection.json)
+
+[необходимые окружения](https://github.com/Lexzender/DummyAPI/blob/main/local.postman_environment.json)
