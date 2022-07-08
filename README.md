@@ -58,6 +58,7 @@ ____
 [Необходимые окружения](https://github.com/Lexzender/DummyAPI/blob/main/local.postman_environment.json)
 
 
-В данной колекции написан автотест для обектов **Create Post**/Get list/ Get list by user/ get list by tag/ Get post by id
+В данной колекции написан автотест для обектов **Create Post/Get list/ Get list by user/ get list by tag/ Get post by id**
+
 **Важно** Запускать колекцию с первого теста. Так как после выполнения первого теста задаются необходимые переменные для следующих тестов 
 
