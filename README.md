@@ -63,4 +63,5 @@ ____
 **Важно** Запускать колекцию с первого теста. Так как после выполнения первого теста задаются необходимые переменные для следующих тестов 
 
 [Автотест](https://github.com/Lexzender/DummyAPI/blob/main/Post%20avotest.postman_collection.json)
+
 [Окружение](https://github.com/Lexzender/DummyAPI/blob/main/local.postman_environment.json)
