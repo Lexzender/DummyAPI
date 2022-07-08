@@ -49,6 +49,10 @@ ____
 [Майнд-карта](https://drive.google.com/file/d/105fVu9zjqIJng1eLJsuv-7nmzJbmWPVF/view?usp=sharing)
 ## Коллекции POSTMAN
 
+В данной коллекции содержаться мои тесты для обектов **Get List** и **Create Post** , которые проверят возможность получения списка постов,списка постов на определенной странице и лимит на отображение кол-ва постов.
+
+Так же проверяется возможность создания поста, возможность создания поста с различными данными в поле  "text", возможность создания поста с картинками, возможность создания поста не существующим пользователем. 
+
 [Колекция Postman для обекта Post](https://github.com/Lexzender/DummyAPI/blob/main/Dummy%20API.postman_collection.json)
 
-[необходимые окружения](https://github.com/Lexzender/DummyAPI/blob/main/local.postman_environment.json)
+[Необходимые окружения](https://github.com/Lexzender/DummyAPI/blob/main/local.postman_environment.json)
